@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug"
 about: An issue with DBB
-labels: 
+labels: suggestion
 
 ---
 
