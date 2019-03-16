@@ -1,7 +1,9 @@
 ---
 name: "\U0001F4A1 Suggestion"
 about: Have a suggestion for DBB?
-labels: suggestion, low priority
+title: ''
+labels: low priority, suggestion
+assignees: advaith1
 
 ---
 
