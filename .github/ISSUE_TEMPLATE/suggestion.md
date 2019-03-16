@@ -3,7 +3,7 @@ name: "\U0001F4A1 Suggestion"
 about: Have a suggestion for DBB?
 title: ''
 labels: low priority, suggestion
-assignees: advaith1
+assignees: advaith1, IceeMC
 
 ---
 
